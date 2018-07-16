@@ -1,4 +1,4 @@
-# clf
+
 var paintBrush = {
     x: 5,
     y: 5,
